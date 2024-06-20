@@ -1,9 +1,7 @@
 import globals from 'globals'
-// import pluginJs from '@eslint/js'
 import stylisticTs from '@stylistic/eslint-plugin-ts'
 import parserTs from '@typescript-eslint/parser'
 import stylisticJs from '@stylistic/eslint-plugin-js'
-
 
 export default [
     {
