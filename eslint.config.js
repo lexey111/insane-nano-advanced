@@ -29,5 +29,4 @@ export default [
             '@stylistic/js/semi': ['error', 'never'],
         }
     },
-    // pluginJs.configs.recommended,
 ]
