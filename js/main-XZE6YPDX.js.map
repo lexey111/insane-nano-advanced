@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/js/utils/utils.ts", "../../src/js/main.ts"],
+  "sourcesContent": ["export function sayHello(answer: number): void {\n    console.log('Hello World:', answer.toString())\n}", "import {TheAnswer} from './utils/consts'\nimport {sayHello} from './utils/utils'\n\nconsole.log('Main init')\n\nsayHello(TheAnswer)\n"],
+  "mappings": "mBAAO,SAASA,EAASC,EAAsB,CAC3C,QAAQ,IAAI,eAAgBA,EAAO,SAAS,CAAC,CACjD,CCCA,QAAQ,IAAI,WAAW,EAEvBC,EAAS,EAAS",
+  "names": ["sayHello", "answer", "sayHello"]
+}

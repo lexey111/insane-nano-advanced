@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../src/css/dashboard.css"],
+  "sourcesContent": ["body {\n    background-color: beige;\n}"],
+  "mappings": "AAAA,KACI,iBAAkB,KACtB",
+  "names": []
+}
