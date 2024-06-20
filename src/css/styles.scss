@@ -1,0 +1,25 @@
+@import 'fonts.css';
+
+$base-color: #ff00a6;
+
+body {
+    display: flex;
+    font-family: system-ui;
+    flex-flow: column nowrap;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+
+    h1 {
+        color: lighten($base-color, 10%);
+    }
+
+    h2 {
+        color: darken($base-color, 21%);
+    }
+
+    img {
+        width: clamp(100px, 25vw, 350px);
+    }
+}
