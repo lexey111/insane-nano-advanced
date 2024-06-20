@@ -10,8 +10,7 @@
     "start": "bun esbuild-serve.js",
     "deploy": "bun run build && git subtree push --prefix dist origin gh-pages",
     "lint": "eslint",
-    "lint-fix": "eslint --fix",
-    "format": "prettier-eslint \"src/**/*.js\""
+    "lint-fix": "eslint --fix"
   },
   "keywords": [
     "insane",
