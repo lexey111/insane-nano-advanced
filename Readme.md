@@ -1,6 +1,6 @@
 # Insane:nanoCoreAdvanced, an old-fashioned modern app builder
 
-Todo: add Medium link
+[Medium link](https://lexeykoshkin.medium.com/building-a-builder-the-core-157b9b22d6d8)
 
 [Live Demo](https://lexey111.github.io/insane-nano-advanced/)
 
